@@ -42,6 +42,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 <Router>
     <Route exact path="/" component={App}/>
 </Router>
+```
 
 ## SASS support
 
@@ -52,3 +53,4 @@ body {
   background: $primaryBgColor;
   color: $primaryTextColor;
 }
+```
