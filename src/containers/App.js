@@ -8,9 +8,9 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <h5 className='flex'>
-        React Project Template
-      </h5>
+      <h3 className='flex flex-center'>
+        <span>React Project Template</span>
+      </h3>
     )
   }
 }
